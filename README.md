@@ -4,6 +4,4 @@ I was bored and frustrated with trying to make my issue with bootstarp work for 
 
 Decided to recreate the "Matrix Vision" from the first Matrix movie inside p5.js.
 
-You can see a live demo here at https://matrix-vision.glitch.me/
-
-![alt text](https://raw.githubusercontent.com/AsherAnd/Matrix-Vision/main/Screenshot%20(24).png)
+![alt text](<https://raw.githubusercontent.com/AsherAnd/Matrix-Vision/main/Screenshot%20(24).png>)
